@@ -1,10 +1,7 @@
 Handwritten
 ===========
 
-Homework could have been so much easier if only it could be submitted as a typed copy.  
-Using Alex Graves' paper on handwriting generation is a step I liked. 
-This script uses his amazing paper (actually the free service he has set up online) to
-generate handwritten homework for given text.
+Text --- up to 100 characters, lower case letters work best. Style --- either let the network choose a writing style at random or prime it with a real sequence to ...
 
 Requirements
 ----
